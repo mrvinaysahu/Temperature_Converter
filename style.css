@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+
+  }
+  h1{
+    text-align: center;
+  }
+  .container{
+    margin: auto;
+    background-color: yellowgreen;
+    text-align: center;
+    width: 60%;
+    /* height: 300px; */
+    box-shadow: 4px 4px 4px gray;
+    border-radius:5px;
+    margin-top: 10px;
+    padding-top: 20px;
+
+  }
+  label{
+    font-size: 22px;
+    font-weight: bold;
+  }
+  input{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 20px;
+  }
+  .in-div {
+    /* align-items: center; */
+    display: inline-block;   
+  }
